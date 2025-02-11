@@ -1,0 +1,9 @@
+{
+	"name": "cursodfdatabricks",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "733bae77-e8f6-4f53-b889-f673dbcc09d7",
+		"tenantId": "2ab58d99-3968-426d-baa4-579724c1a3f4"
+	}
+}
