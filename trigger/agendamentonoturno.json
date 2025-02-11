@@ -1,5 +1,5 @@
 {
-	"name": "agendamento noturno",
+	"name": "agendamentonoturno",
 	"properties": {
 		"annotations": [],
 		"runtimeState": "Started",
@@ -16,16 +16,8 @@
 			"recurrence": {
 				"frequency": "Day",
 				"interval": 1,
-				"startTime": "2025-02-10T22:50:00",
-				"timeZone": "E. South America Standard Time",
-				"schedule": {
-					"minutes": [
-						50
-					],
-					"hours": [
-						22
-					]
-				}
+				"startTime": "2025-02-10T22:52:00",
+				"timeZone": "E. South America Standard Time"
 			}
 		}
 	}
